@@ -4,6 +4,7 @@ Pytorch Implementation of Adversarial Deep Network Embedding for Cross-Network N
 This is a pytorch implementation of the Adversarial Deep Network Embedding for Cross-Network Node Classification (ACDNE) model presented by Shen et. al (2020, https://arxiv.org/abs/2002.07366)
 
 The official repository for ACDNE (Tensorflow) is available in https://github.com/shenxiaocam/ACDNE. Therefore, if you make advantage of the ACDNE model in your research, please cite the following:
+
 Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi. Adversarial Deep Network Embedding for Cross-Network Node Classification. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pages 2991-2999, 2020.
 
 
